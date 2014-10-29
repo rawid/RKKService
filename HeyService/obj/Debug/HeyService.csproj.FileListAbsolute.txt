@@ -1,0 +1,5 @@
+C:\Users\Shuchi\Documents\Visual Studio 2010\Projects\Test1\HeyService\bin\Debug\HeyService.dll.config
+C:\Users\Shuchi\Documents\Visual Studio 2010\Projects\Test1\HeyService\bin\Debug\HeyService.dll
+C:\Users\Shuchi\Documents\Visual Studio 2010\Projects\Test1\HeyService\bin\Debug\HeyService.pdb
+C:\Users\Shuchi\Documents\Visual Studio 2010\Projects\Test1\HeyService\obj\Debug\HeyService.dll
+C:\Users\Shuchi\Documents\Visual Studio 2010\Projects\Test1\HeyService\obj\Debug\HeyService.pdb

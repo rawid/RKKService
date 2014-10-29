@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="C:\temp\Test\">
+    <file relUrl="bin/HeyService.dll.config" publishTime="10/29/2014 00:28:55" />
+    <file relUrl="Web.config" publishTime="10/29/2014 00:28:55" />
+    <file relUrl="bin/HeyService.dll" publishTime="10/29/2014 00:25:46" />
+    <file relUrl="bin/HeyService.pdb" publishTime="10/29/2014 00:25:46" />
+    <file relUrl="HeyService.MyService.svc" publishTime="10/29/2014 00:29:00" />
+  </publishTarget>
+</publishData>
